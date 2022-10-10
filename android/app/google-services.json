@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "601973605065",
+    "project_id": "sv-kraft-72d7c",
+    "storage_bucket": "sv-kraft-72d7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601973605065:android:921c124f49cb6ec9db8318",
+        "android_client_info": {
+          "package_name": "com.example.sv_craft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601973605065-56k6o08stbsle0surifva21vp0j9rro0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj1Yz7n3CL0RNohyJa8eweKUjpPe48Y5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601973605065-56k6o08stbsle0surifva21vp0j9rro0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "601973605065-on9qviruveflkiugb6kpf0fldhna7sku.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.svCraft"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
